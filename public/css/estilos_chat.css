@@ -1,0 +1,12 @@
+.esthela {
+    float:right;
+    width:450px;
+    height:350px;
+    background: url(http://u.jimdo.com/www21/o/s4e9df44a0ad8ccd8/img/i89f1a63f61ac63da/1340075377/std/image.png) no-repeat !important;
+    display:block;
+    right: -400px;
+    padding:0;
+    position:fixed;
+    top: 56px;
+    z-index:1002;
+}
